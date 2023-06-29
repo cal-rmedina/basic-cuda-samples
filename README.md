@@ -19,3 +19,4 @@ Additionally each directory has its own:
 ## List of programs
 
 1. Factorial: Recursive device functions, basic kernel usage and Streams.
+4. $\pi$ Monte-Carlo: Vector reductions and CURAND library.
